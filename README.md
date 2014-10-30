@@ -1,4 +1,3 @@
-wcnn
+World Crypto Network Node
 ====
 
-World Crypto Network Node
